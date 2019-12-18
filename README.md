@@ -1,3 +1,7 @@
+# Recapping DL Components
+
+__전체 커리큘럼__: [스프레드시트 링크](https://docs.google.com/spreadsheets/d/1WHCOmUIdL-OwsqnH3r89U3UKelK7YbowmUKKfGX5h9E/edit?usp=sharing)
+
 ## 스터디 시간
 
 - 매주 목요일 저녁 7시
@@ -31,7 +35,7 @@
 
   
 
-## 참여 인원
+## 참여 인원 (_한사람당 3~4회 발표_)
 
 - 김정원
 - 김선기
@@ -39,6 +43,4 @@
 - 박지수
 - 김단비
 - 이진호
-
-한사람당 3~4회 발표
-
+- 조원재
